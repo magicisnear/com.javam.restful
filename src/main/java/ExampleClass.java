@@ -38,8 +38,6 @@ public class ExampleClass {
 
         System.out.println(response.getBody());
 
-
-
 //        createUser(cookies);
 //        updateUser(cookies);
 //        deleteUser(cookies);
